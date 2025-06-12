@@ -2,17 +2,14 @@
 
 The 100 Algorithms project is a curated collection of algorithmic problems and solutions written in TypeScript. It includes various challenges, ranging from basic logic to more advanced algorithmic patterns—ideal for interview preparation, coding practice, and deepening one's understanding of core programming concepts.
 
-
 ---
 
-
 | SL | Description |
-|-----------|-------------|-------|
-| 1   | Give an array of integers, replace all the occurrences of elementToReplace with subtractionElem. |
-| 2   | Write a function that returns the sum of two numbers.
-        Write a function that returns the sum of all numbers regardless of # of params.|
-| 3   | Give a rectangular matrix of characters, add a border of asterisks(*) to it. |
-| 4   | Give a sequence of integer to an array, determine whether it is possible to obtain a strictly increasing sequence by removing not more than one element from the array.|
-| 5   | Sum all the prime numbers up to and including the provided number.|
+|----|-------------|
+| 1  | Given an array of integers, replace all the occurrences of `elementToReplace` with `subtractionElem`. |
+| 2  | Write a function that returns the sum of two numbers. Also, write a function that returns the sum of all numbers regardless of number of parameters. |
+| 3  | Given a rectangular matrix of characters, add a border of asterisks `*` to it. |
+| 4  | Given a sequence of integers in an array, determine whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array. |
+| 5  | Sum all the prime numbers up to and including the provided number. |
 
 ---
