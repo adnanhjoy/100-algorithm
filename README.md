@@ -12,7 +12,7 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 4  | Given a sequence of integers in an array, determine whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array. |
 | 5  | Sum all the prime numbers up to and including the provided number. |
 | 6  | Rectangle Pattern |
-| 7  | Minimum Sum of Four Digit Number After Splitting Digits |
-| 8  | Longest Substring Without Repeating Characters |
+| 7  | Minimum Sum of Four Digit Number After Splitting Digits `Leetcode - 2160` |
+| 8  | Longest Substring Without Repeating Characters `Leetcode - 3` |
 
 ---
