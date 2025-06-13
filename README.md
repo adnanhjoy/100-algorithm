@@ -16,5 +16,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 8  | Longest Substring Without Repeating Characters `Leetcode - 3` |
 | 9  | Median of Two Sorted Arrays `Leetcode - 4` |
 | 10  | Palindrome Number without converting the integer to a string `Leetcode - 9` |
+| 10  | Valid Palindrome `Leetcode - 125` |
 
 ---
