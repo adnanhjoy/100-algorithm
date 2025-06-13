@@ -14,5 +14,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 6  | Rectangle Pattern |
 | 7  | Minimum Sum of Four Digit Number After Splitting Digits `Leetcode - 2160` |
 | 8  | Longest Substring Without Repeating Characters `Leetcode - 3` |
+| 9  | Median of Two Sorted Arrays `Leetcode - 4` |
 
 ---
