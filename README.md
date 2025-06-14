@@ -17,6 +17,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 9  | Median of Two Sorted Arrays `Leetcode - 4` |
 | 10  | Palindrome Number without converting the integer to a string `Leetcode - 9` |
 | 11  | Valid Palindrome `Leetcode - 125` |
-| 12  | Valid Palindrome `Roman to Integer - 13` |
+| 12  | Roman to Integer `Leetcode - 13` |
 
 ---
