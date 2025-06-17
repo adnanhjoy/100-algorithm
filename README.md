@@ -18,5 +18,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 10  | Palindrome Number without converting the integer to a string `Leetcode - 9` |
 | 11  | Valid Palindrome `Leetcode - 125` |
 | 12  | Roman to Integer `Leetcode - 13` |
+| 13  | Build Array from Permutation `Leetcode - 1920` |
 
 ---
