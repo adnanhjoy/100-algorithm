@@ -22,5 +22,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 14  | Richest Customer Wealth `Leetcode - 1672` |
 | 15  | Running Sum of 1d Array `Leetcode - 1480` |
 | 16  | How Many Numbers Are Smaller Than the Current Number `Leetcode - 1365` |
+| 17  | Defanging an IP Address `Leetcode - 1108` |
 
 ---
