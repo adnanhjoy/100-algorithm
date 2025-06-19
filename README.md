@@ -21,5 +21,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 13  | Build Array from Permutation `Leetcode - 1920` |
 | 14  | Richest Customer Wealth `Leetcode - 1672` |
 | 15  | Running Sum of 1d Array `Leetcode - 1480` |
+| 16  | How Many Numbers Are Smaller Than the Current Number `Leetcode - 1365` |
 
 ---
