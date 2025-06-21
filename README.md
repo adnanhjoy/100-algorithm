@@ -24,5 +24,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 16  | How Many Numbers Are Smaller Than the Current Number `Leetcode - 1365` |
 | 17  | Defanging an IP Address `Leetcode - 1108` |
 | 18  | Reverse Integer `Leetcode - 7` |
+| 19  | Two Sum `Leetcode - 1` |
 
 ---
