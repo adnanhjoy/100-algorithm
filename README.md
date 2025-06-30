@@ -28,5 +28,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 20  | Divide a String Into Groups of Size k `Leetcode - 2138` |
 | 21  | Fibonacci Number `Leetcode - 509` |
 | 22  | Pascal's Triangle `Leetcode - 118` |
+| 23  | Longest Harmonious Subsequence `Leetcode - 594` |
 
 ---
