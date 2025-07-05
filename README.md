@@ -30,5 +30,6 @@ The 100 Algorithms project is a curated collection of algorithmic problems and s
 | 22  | Pascal's Triangle `Leetcode - 118` |
 | 23  | Longest Harmonious Subsequence `Leetcode - 594` |
 | 24  | Find the Original Typed String I `Leetcode - 3330` |
+| 25  | Find Lucky Integer in an Array `Leetcode - 1394` |
 
 ---
